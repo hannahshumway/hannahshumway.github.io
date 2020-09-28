@@ -1,11 +1,11 @@
-/* 
+/*
 
 Elevate
 
 http://www.templatemo.com/tm-481-elevate
 
 
-Line border color #999 
+Line border color #999
 
 Title text, menu color #666
 
@@ -18,9 +18,9 @@ a:focus {
 	outline: none;
 }
 
-ul { 
+ul {
 	padding: 0;
-	margin: 0; 
+	margin: 0;
 }
 
 body {
@@ -71,10 +71,10 @@ body {
 
 .tm-nav-item-link:focus { text-decoration: none; }
 
-.tm-banner-title, 
-.tm-section-title, 
+.tm-banner-title,
+.tm-section-title,
 .tm-banner-text {
-	color: #666;
+	color: #04C;
 	font-weight: 300;
 	margin-top: 0;
 }
@@ -83,9 +83,9 @@ body {
 
 .tm-section-title-box {	margin-bottom: 0; }
 
-.tm-banner-title { 
+.tm-banner-title {
 	font-size: 3.3em;
-	letter-spacing: 2px; 
+	letter-spacing: 2px;
 }
 
 .tm-main-content {
@@ -104,7 +104,7 @@ body {
 	height: 370px;
 	padding: 30px;
 }
-	
+
 .tm-banner-inner {
 	border: 1px solid #999;
 	height: 100%;
@@ -127,7 +127,7 @@ body {
         -ms-flex-pack: center;
             justify-content: center;
 }
-	
+
 .tm-banner-title { text-transform: uppercase; }
 
 .tm-banner-text { font-size: 1.4em; }
@@ -144,10 +144,10 @@ body {
 }
 
 /*http://stackoverflow.com/questions/29562755/flexbox-ie10-width-issues*/
-.flex-item { 
-	-webkit-box-flex: 0 1 auto; 
-	-webkit-flex: 0 1 auto; 
-	    -ms-flex: 0 1 auto; 
+.flex-item {
+	-webkit-box-flex: 0 1 auto;
+	-webkit-flex: 0 1 auto;
+	    -ms-flex: 0 1 auto;
 	        flex: 0 1 auto;
 }
 
@@ -231,7 +231,7 @@ body {
 
 .form-control {
 	border-radius: 0;
-	font-size: 1em;	
+	font-size: 1em;
 }
 
 .form-control:focus {
@@ -257,7 +257,7 @@ body {
 	border: 1px solid #999;
 	color: #999;
 	float: right;
-	font-size: 1.4em;	
+	font-size: 1.4em;
 	font-weight: 300;
 	padding: 15px 60px;
 	-webkit-transition: all 0.3s ease;
@@ -288,7 +288,7 @@ body {
 	.container { width: 1080px; }
 	.tm-sidebar { width: 300px; }
 	.tm-main-content { margin-left: 300px; }
-	.tm-team-description-container { max-width: 330px; }	
+	.tm-team-description-container { max-width: 330px; }
 }
 
 /*http://stackoverflow.com/questions/11404744/media-queries-max-width-or-max-height*/
@@ -340,14 +340,14 @@ body {
 		padding-left: 0;
 		padding-right: 0;
 	}
-	.tm-team-description-container { 
-		max-width: 296px; 
+	.tm-team-description-container {
+		max-width: 296px;
 		width: 50%;
 	}
 }
 
 @media screen and (max-width: 991px) and (min-width: 780px) {
-	.container { width: 780px; }	
+	.container { width: 780px; }
 }
 
 @media screen and (max-width: 640px) {
@@ -359,7 +359,7 @@ body {
 
 	.tm-banner-title { font-size: 2.8em; }
 	.tm-banner-text { font-size: 1.2em; }
-	
+
 	.flex-2-col {
 		-webkit-flex-flow: column;
 		    -ms-flex-flow: column;
