@@ -74,7 +74,7 @@ body {
 .tm-banner-title,
 .tm-section-title,
 .tm-banner-text {
-	color: #0AF;
+	color: #666;
 	font-weight: 300;
 	margin-top: 0;
 }
@@ -160,7 +160,7 @@ body {
 .tm-team-description-container { max-width: 500px; }
 
 .box {
-	background-color: white;
+	background-color: #76c1d7;
 	list-style: none;
 	width: 33.3333%;
 	height: auto;
